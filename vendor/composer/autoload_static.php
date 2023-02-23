@@ -34,6 +34,7 @@ class ComposerStaticInit6091c432f91600386cd4ccb186a2c31a
     );
 
     public static $classMap = array (
+        'Assertative' => __DIR__ . '/../..' . '/classes/Assertative.php',
         'Calculator' => __DIR__ . '/../..' . '/classes/Calculator.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'PHPUnit\\Event\\Application\\Finished' => __DIR__ . '/..' . '/phpunit/phpunit/src/Event/Events/Application/Finished.php',
